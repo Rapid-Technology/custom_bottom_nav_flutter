@@ -1,4 +1,4 @@
-# custom_bottom_nav_flutter
+# Custom Bottom Nav Flutter
 
 A new Flutter project.
 
